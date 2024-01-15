@@ -168,7 +168,7 @@ $(function () {
             ],
             title: "",
             type: 1,
-            page: 14
+            page: 16
         },
         {
             text: [
@@ -179,7 +179,7 @@ $(function () {
                 '<div><img class="imgright" src="img/firstChapter/img/7.png"></div>' 
             ],
             type: 2,
-            page: 15
+            page: 17
         },
         {
             text: [
@@ -191,7 +191,7 @@ $(function () {
             ],
             title: "",
             type: 1,
-            page: 16
+            page: 18
         },
         {
             text: [
@@ -201,7 +201,7 @@ $(function () {
                 '<div><img class="img" src="img/firstChapter/img/1.png"></div>'
             ],
             type: 2,
-            page: 15
+            page: 19
         },
         {
             text: [
@@ -212,7 +212,355 @@ $(function () {
             ],
             title: "",
             type: 1,
-            page: 16
+            page: 20
+        },
+        {
+            text: [
+                '<div><h2 class="subtitle">【泰伯三让天下】</h2></div>' +
+                '<div><p class="text_pl">泰伯，姬姓，他并非吴地土著，而是中原地区的岐山周原（今陕西岐山县）人，生于殷高宗武丁40年（前1285年）。泰伯父亲古公亶父（gǔ gōng dǎn fù）是周国的国君周太王。泰伯是古公亶父的长子，泰伯以下还有其次子仲雍和三子季历。</p></div>' +
+                '<div><p class="text_pl">泰伯勤奋好学，为人宽厚，孝敬父母，与兄弟相处和睦。但周太王古公亶父并不看好泰伯继承王业，他曾说：“我世当有兴者，其在昌乎！”他这里所说的“昌”是指其三子季历的儿子姬昌，也就是说他是寄希望于三子季历一系来继承并开拓其王业的。泰伯是个孝子，也是个深知进退的贤者。他为了遵从父亲的意愿，避免手足相争，便将原本应属长子的王位继承权禅让给了三弟季历。他说服二弟仲雍备了行李和干粮，趁父亲生病之时，托言往衡山采药而离开了故国。此为泰伯三让天下中之一让。不久，周太王病逝，泰伯与仲雍回去奔丧。季历与众臣要求泰伯留下继位，泰伯坚不肯受，丧毕乃去，此为二让。后泰伯为了让季历安心于周国王业的经营，索性和仲雍举族南迁，跋涉3000多里，来到苏南太湖之滨的梅里（今无锡市梅里村一带）避居，此为三让。</p></div>'            ],
+            title: "",
+            type: 2,
+            page: 21
+        },
+        {
+            text: [
+                '<div><p class="text_pl">泰伯在当时还是“刀耕火种”、“一年一收”的江南，和土著居民友好相处，帮助他们发展当地的生产、文化，建立了江南第一个雏形国家，世称“句吴（gōu wú）”。泰伯的的优秀品格和不朽功绩，受到后世称颂。</p></div>'
+            ],
+            title: "",
+            type: 1,
+            page: 22
+        },
+        {
+            text: [
+                '<div><h1 class="title">五峰园</h1></div>' +
+                '<div><h2 class="subtitle">我了解</h2></div>' +
+                '<div><p class="text_pl">五峰园位于桃花坞五峰园弄内。五峰园建于明代嘉靖年间，是长州尚书杨成所筑，所以又称为“杨家园”。还有一个说法是文徵明侄子画家文伯仁所筑。文伯仁号五峰老人，园中耸立五座太湖石峰，高二丈，颇有皱瘦玲珑之致，形似五位老丈，名五老峰。 五峰园以五老峰为造景中心，水池、石桥、古树、旱船、园亭、岩洞相映成趣，景色秀丽多姿。</p></div>' +
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'
+            ],
+            type: 2,
+            page: 23
+        },
+        {
+            text: [
+                '<div><h2 class="subtitle">我实践</h2></div>' +
+                '<div><p class="text_pl">1.在家长的带领下，游览五峰园，画一画五峰园的五座假山石。</p></div>' +
+                '<div><p class="text_pl">2.五峰园以五座假山石闻名，还有留园的冠云峰、第十中学的瑞云峰和狮子林的太湖石假山群也值得去看一看，拍些照片留做纪念。</p></div>'+
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'
+            ],
+            type: 1,
+            page: 24
+        },
+        {
+            text: [
+                '<div><h1 class="title">文山寺</h1></div>' +
+                '<div><h2 class="subtitle">我了解</h2></div>' +
+                '<div><p class="text_pl">文山寺，位于姑苏城西北的文丞相弄内，是苏州市唯一的一座尼众丛林（俗称尼姑庵）。文山寺东抵中街路，南临东中市，西邻阊门西街，北枕桃花河，与桃花坞大街隔河相望，是南宋的古寺，已有八百多年历史。文山寺与历史人物文天祥有关，所以文山寺前的这条小弄就叫“文丞相弄”。</p></div>' +
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'
+            ],
+            type: 2,
+            page: 25
+        },
+        {
+            text: [
+            ],
+            type: 1,
+            page: 26
+        },
+        {
+            text: [
+                '<div><h2 class="subtitle">我实践</h2></div>' +
+                '<div><p class="text_pl">1.在家长的带领下，参观文山寺，了解文天祥抗元故事，学着讲一讲。</p></div>' +
+                '<div><h2 class="subtitle">【文天祥抗元】</h2></div>' +
+                '<div><p class="text_pl">文天祥是南宋的民族英雄。他本来是个文官，可为了保卫国家，他勇敢地走上了战场。那时候，元朝派出大军，要消灭南宋，文天祥听到消息，拿出自己的家产，召募起3万壮士，组成义军，抗元救国。有人说：“元军人那么多，你这么点人怎么抵挡？不是虎羊相拼吗？”文天祥说：“国家有难却无人解救，是我最心疼的事。我力量虽然单薄，也要为国尽力呀！”</p></div>' +
+                '<div><p class="text_pl">后来，南宋统治者投降了元军，文天祥仍然坚持抗争。他对大家说：“救国如救父母。父母有病，即使难以医治，儿子还是要全力抢救啊！”不久，他兵败被俘，坚决不肯投降，还写下了有名的诗句：“人生自古谁无死，留取丹心照汗青。”表明自己坚持民族气节至死不变的决心。多少年来，文天祥的救国精神，代代相传，已经成为中华民族共同的精神财富。</p></div>' +
+                '<div><p class="text_pl">2.诵读文天祥的《过零丁洋》。</p></div>' 
+            ],
+            type: 2,
+            page: 27
+        },
+        {
+            text: [
+                '<div><h2 class="subtitle">【《过零丁洋》】</h2></div>' +
+                '<div><p class="text_pl">辛苦遭逢起一经，干戈寥落四周星。山河破碎风飘絮，身世浮沉雨打萍。</p></div>' +
+                '<div><p class="text_pl">惶恐滩头说惶恐，零丁洋里叹零丁。人生自古谁无死？留取丹心照汗青。</p></div>' +
+                '<div><p class="text_pl">这首诗见于文天祥《指南录》，是文天祥的代表作。公元1278年（宋祥兴元年），文天祥在广东海丰北五坡岭兵败被俘，押到船上，祥兴二年（1279）过零丁洋时写下此诗。当时元军元帅张弘范逼他写信招降南宋在海上坚持抵抗的张世杰、陆秀夫等人，文天祥不从，他以此诗明志节。</p></div>' +
+                '<div><h2 class="subtitle">译文</h2></div>' +
+                '<div><p class="text_pl">我艰苦的生活经历是从读书做官开始的，以微薄的兵力与元军苦战了四年。大宋的江山像被风吹散的飘絮一样支离破碎，我的身世像雨中被雨打的浮萍一样时起时沉。</p></div>' +
+                '<div><p class="text_pl">去年在惶恐滩头述说自己的惶恐，而今在零丁洋里叹息自己的零丁。自古以来人活在世上哪能不死呢？我愿留下这颗赤诚的心来光照史册。</p></div>'
+            ],
+            type: 1,
+            page: 28
+        },
+        {
+            text: [
+                '<div><h1 class="title">平门</h1></div>' +
+                '<div><h2 class="subtitle">我了解</h2></div>' +
+                '<div><p class="text_pl">平门，位于苏州城北，当年伍子胥平齐大军从此门出，打败齐国，班师回朝，又由此门入，所以叫“平门”。平门经过修整，重现古时候风貌。在平门城楼上可以远眺平门桥，看小船穿越而过，能引起人无限遐思。</p></div>' +
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'
+            ],
+            type: 2,
+            page: 29
+        },
+        {
+            text: [
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'+
+                '<div><h2 class="subtitle">我实践</h2></div>' +
+                '<div><p class="text_pl">1.走在平门城墙上，遥看对岸的火车站，把你心中所想和小伙伴交流交流。</p></div>' +
+                '<div><p class="text_pl">2.让家长带着到苏州的盘门、阊门、相门、娄门、胥门、金门游览，拍下照片记录下来，发在微信上。</p></div>' +
+                '<div><p class="text_pl">3.你也可以赞一下小伙伴的微信。</p></div>'
+            ],
+            type: 1,
+            page: 30
+        },
+        {
+            text: [
+                '<div><h1 class="title">阊门</h1></div>' +
+                '<div><h2 class="subtitle">我了解</h2></div>' +
+                '<div><p class="text_pl">阊门，是苏州古城的西门，在金门的北边，穿过阊门，沿七里山塘可以到达虎丘。从清代乾隆年间的《姑苏繁华图》中可以看出，阊门内城门临阊门大街（今西中市），上面有城楼，外城门靠吊桥，瓮城内另有套城，并还有南、北两个童梓门。南童梓门通今南新路，北童梓门通北码头。</p></div>' +
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'
+            ],
+            type: 2,
+            page: 31
+        },
+        {
+            text: [
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'+
+                '<div><h2 class="subtitle">我实践</h2></div>' +
+                '<div><p class="text_pl">1.和家长一起，从阊门出发，沿七里山塘走到虎丘，试一试哦。</p></div>' +
+                '<div><p class="text_pl">2.苏州的蛇门只有一段城墙了，在环古城步道的东南方向，去找一找吧。</p></div>'
+            ],
+            type: 1,
+            page: 32
+        },
+        {
+            text: [
+                '<div><h1 class="title">读后评价</h1></div>' +
+                '<div><p class="text_pl">1.你游历了哪些桃花坞地区的名胜呢？填一填，简单写一写自己的感受。</p></div>' +
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'
+            ],
+            type: 2,
+            page: 33
+        },
+        {
+            text: [
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'+
+                '<div><p class="text_pl">2.画一张名胜游历的打卡地图。</p></div>'+
+                '<div><p class="text_pl">在互评和自评后打星：☆☆☆☆</p></div>'
+                // '<div><table class="text_pl"><tr><th>游历地点</th><th>感  受</th></tr><tr></tr></table></div>'
+            ],
+            type: 1,
+            page: 34
+        },
+        {
+            text: [
+                '<div class="page_d"><img class="fullimg" src="img/firstChapter/1-A.JPG">'
+            ],
+            title: "",
+            type: 3,
+            page: 35
+        },
+        {
+            text: [
+                '<div><h1 class="title">名篇诵读</h1></div>' +
+                '<div><img class="circleImg" src="img/firstChapter/1-B.jpg"></div>' +
+                '<div><h2 class="subtitle">单元导语</h2></div>' +
+                '<div><p class="text_pl" style="font-size:14px">花坞是苏州文化沉淀颇为丰厚的地区之一，自西晋到民国有二百四十多位作者的七百余首诗词，均与桃花坞地区相关。这些咏唱跨越时空的隧道，记载了桃花坞地区的历史和社会变迁，成为我们了解往昔桃花坞的桥梁。</p></div>' +
+                '<div><p class="text_pl" style="font-size:14px">唐伯虎的《桃花庵诗》、陆龟蒙的《奉和袭美太湖诗二十首·桃花坞》等诗，或写桃花坞的优美景色，或抒归隐山林的情怀，都是不可多得的古诗佳作。“名篇诵读”单元搜集了部分吟诵桃花坞胜景的诗词，学生诵读诗词，练习硬笔书法，品味美文佳句，在经典传统文化的熏陶中涵养正气，不断提高人文素养和思想境界。</p></div>' +
+                '<div><h2 class="subtitle">阅读指南</h2></div>' +
+                '<div><p class="text_pl" style="font-size:14px">你能熟读、背诵哪几首描写桃花坞美景的诗呢？</p></div>'
+            ],
+            title: "",
+            type: 1,
+            page: 36
+        },
+        {
+            text: [
+                '<div><h1 class="title">桃花庵歌</h1></div>' +
+                '<div><p class="text_pl">【明】 唐寅</p></div>' +
+                '<div><p class="text_pl">桃花坞里桃花庵，桃花庵里桃花仙；'+
+                '桃花仙人种桃树，又摘桃花换酒钱。 '+
+                '酒醒只在花前坐，酒醉还来花下眠； '+
+                '半醒半醉日复日，花落花开年复年。 '+
+                '但愿老死花酒间，不愿鞠躬车马前； '+
+                '车尘马足贵者趣，酒盏花枝贫者缘。 '+
+                '若将富贵比贫贱，一在平地一在天； '+
+                '若将贫贱比车马，他得驱驰我得闲。 '+
+                '别人笑我太疯癫，我笑他人看不穿； '+
+                '不见五陵豪杰墓，无花无酒锄作田。'+
+                '</p></div>'+
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>' 
+            ],
+            type: 2,
+            page: 37
+        },
+        {
+            text: [
+                '<div><h2 class="subtitle">作者简介</h2></div>' +
+                '<div><p class="text_pl" style="font-size:14px">《桃花庵歌》是明代著名画家、文学家、诗人唐寅的经典诗作。</p></div>' +
+                '<div><p class="text_pl" style="font-size:14px"><img class="flexsmallimg" src="img/firstChapter/img/7.png" align="right">唐寅（1470—1523），字伯虎，一字子畏，号六如居士、桃花庵主等。据说是明宪宗成化六年庚寅年寅月寅日寅时生，故名唐寅。汉族，吴县（今江苏苏州）人。他玩世不恭而又才气横溢，以诗文擅名，与祝允明、文徵明、徐祯卿并称“江南四大才子”。唐寅最为有名的是他的画作，与沈周、文徵明、仇英并称“吴门四家”。民间有很多关于唐伯虎的传说，最为人熟悉的《唐伯虎点秋香》曾多次被改编成戏剧，拍成电视剧及电影。</p></div>' +
+                '<div><p class="text_pl" style="font-size:14px">《桃花庵歌》是唐寅诗词中最著名的一首，诗人自喻“桃花仙人”以“老死花酒间”与“鞠躬车马前”分别代指两种截然不同的生活方式，又以富贵与贫贱的各有所失，形成鲜明强烈的对比，表现了自己平凡真实中带有庸俗消极一面的真实内心，带有愤世嫉俗之意气。全诗层次清晰，语言浅近，蕴涵无限的艺术张力，给人以绵延的审美享受和强烈的认同感。</p></div>'+
+                '<div><h2 class="subtitle">诗情画意</h2></div>' +
+                '<div><p class="text_pl" style="font-size:14px">1.品读《桃花庵诗》，有滋有味地背诵。</p></div>' +
+                '<div><p class="text_pl" style="font-size:14px">2.了解唐寅的生平。</p></div>'
+            ],
+            type: 1,
+            page: 38
+        },
+        {
+            text: [
+                '<div><h1 class="title">题画廿四首（其一）</h1></div>' +
+                '<div><p class="text_pl">【明】 唐寅</p></div>' +
+                '<div><p class="text_pl">草屋柴门无点尘，门前溪水绿粼粼。'+
+                '中间有甚堪图画，满坞桃花一醉人。</p></div>'+
+                '<div><p class="text_pl">1.搜集《题画廿四首》的其他诗句，挑感兴趣的诵读，与小伙伴分享。</p></div>' +
+                '<div><p class="text_pl">2.读诗，想象画面，给诗配上一幅画。</p></div>' 
+            ],
+            type: 2,
+            page: 39
+        },
+        {
+            text: [
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>' 
+            ],
+            type: 1,
+            page: 40
+        },
+        {
+            text: [
+                '<div><h1 class="title">期顾德甫兄弟看花不至</h1></div>' +
+                '<div><p class="text_pl">【明】 归子慕</p></div>' +
+                '<div><p class="text_pl">脉脉春欲深，迟迟日方午。'+
+                '闲闲溪桥边，寂寂桃花坞。'+
+                '浅水潮初生，渔舟倒出浦。'+
+                '无奈东风狂，花落不可数。'+
+                '</p></div>'+
+                '<div><h2 class="subtitle">作者简介</h2></div>' +
+                '<div><p class="text_pl" style="font-size:14px"><img class="flexsmallimg" src="img/firstChapter/img/7.png" align="right">归子幕，明朝昆山人。字季思，归有光的小儿子。生于明世宗嘉靖四十二年，卒于神宗万历三十四年，享年四十四岁。万历十九年（公元一五九一年）举人。再试礼部不第，屏居江村，与无锡高攀龙、嘉善吴志远最友善。他居住的陶庵，槿墙茅屋，诗歌以为乐。学者称清远先生。子慕著有《陶园集》四卷，《明史艺文志》传于世。</p></div>' +
+                '<div><p class="text_pl">《期顾德甫兄弟看花不至》描写的是桃花坞唐寅故居附近的恬静的景色和捕鱼的生活场景。</p></div>' 
+            ],
+            type: 2,
+            page: 41
+        },
+        {
+            text: [
+                '<div><h2 class="subtitle">诗情画意</h2></div>' +
+                '<div><p class="text_pl">二选其一</p></div>' +
+                '<div><p class="text_pl">1.想象《期顾德甫兄弟看花不至》诗中描绘的的情景，画下来。</p></div>' +
+                '<div><p class="text_pl">2.手绘一张你喜欢的桃花或者小桥流水简图。</p></div>'+
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>' 
+            ],
+            type: 1,
+            page: 42
+        },
+        {
+            text: [
+                '<div><h1 class="title">独有桃花坞</h1></div>' +
+                '<div><p class="text_pl">【宋】 张嵲（niè）</p></div>' +
+                '<div><p class="text_pl">三吴皆白水，处处只横舟。'+
+                '独有桃花坞，光风尽日留。'+
+                '一朝山雨过，忽见夏阴稠。'+
+                '讵惜繁华晚，徒嗟岁月遒。'+
+                '</p></div>'+
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'  
+            ],
+            type: 2,
+            page: 42
+        },
+        {
+            text: [
+                '<div><h2 class="subtitle">作者简介</h2></div>' +
+                '<div><p class="text_pl" style="font-size:14px"><img class="flexsmallimg" src="img/firstChapter/img/7.png" align="left">张嵲（1094—1146），字巨山，宋朝官员，官至员外郎，擅长作诗，著有《紫微集》三十卷。</p></div>' +
+                '<div><h2 class="subtitle">诗情画意</h2></div>' +
+                '<div><p class="text_pl">1.想象《独有桃花坞》诗中描绘的的美景，用自己的话说一说。</p></div>' +
+                '<div><p class="text_pl">2.找找诗人张嵲其他的诗诵读诵读。</p></div>' 
+            ],
+            type: 1,
+            page: 43
+        },
+        {
+            text: [
+                '<div><h1 class="title">桃花坞抒情</h1></div>' +
+                '<div><p class="text_pl">毕东民</p></div>' +
+                '<div><p class="text_pl"></br>留在春泥里的记忆</br>'+
+                '在多年后盛开出一片桃花</br>'+
+                '每当风儿轻轻吹过</br>'+
+                ' 缤纷的花枝开满枝桠</br>'+
+                '</br>'+
+                '粉红的涟漪层层荡起</br>'+
+                '似你的脸如染飞霞</br>'+
+                '</br>'+
+                '你醉了吗</br>'+
+                '怎会有他的气息</br>'+
+                '酣睡在花枝下</br>'+
+                '</br>'+
+                '桃花坞里桃花庵</br>'+
+                '桃花庵里桃花仙</br>'+
+                '他是这样写诗的　他爱桃花</br>'+
+                '</br>'+
+                '被你围绕是一种幸福</br>'+
+                '如果我是那一枝春梢</br>'+
+                ' 从来没有被你青睐　我也愿意</br>'+
+                '</br>'+
+                '</p></div>'
+            ],
+            type: 2,
+            page: 44
+        },
+        {
+            text: [
+                '<div><h2 class="subtitle">作者简介</h2></div>' +
+                '<div><p class="text_pl">毕东民，1974年12月生，河北省文安县人，毕业于廊坊师范学院中文系。从小酷爱写作，创作有诗集《明月松间照》、散文集《清泉石上流》、小说《救赎》《嫦娥》《红尘梦》等。</p></div>' +
+                '<div><h2 class="subtitle">诗情画意</h2></div>' +
+                '<div><p class="text_pl">这是一首现代诗，美美地诵读，感受诗中抒发的情感。</p></div>' +
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'  
+            ],
+            type: 1,
+            page: 45
+        },
+        {
+            text: [
+                '<div><h1 class="title">十里桃花坞</h1></div>' +
+                '<div><p class="text_pl">金鹁鸪（bó gū）</p></div>' +
+                '<div><p class="text_pl"></br>十里桃花坞，游人若姑苏。</br>'+
+                '群山皆染色，峰峦映彩湖。</br>'+
+                '春莺林中闹，粉蝶花间舞。</br>'+
+                '丽人留倩影，芳菲入画图。</br>'+
+                '日暮炊烟起，依依踏归途。</br>'+
+                '车龙笛声急，无奈路太堵。</br>'+
+                '</p></div>'+
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'  
+            ],
+            type: 2,
+            page: 46
+        },
+        {
+            text: [
+                '<div><h2 class="subtitle">作者简介</h2></div>' +
+                '<div><p class="text_pl">金鹁鸪，是一名公务员，闲暇时常常背着照相机走街串巷，寻找精彩的瞬间。有时还给自己的照片配上小诗。</p></div>' +
+                '<div><h2 class="subtitle">诗情画意</h2></div>' +
+                '<div><p class="text_pl">1.诗中有云“芳菲入画图”，那请你想象诗中画面，用彩笔画下来。</p></div>' +
+                '<div><p class="text_pl">2.你是否也会像作者金鹁鸪一样，背着相机走街串巷，寻找精彩的瞬间再配上一首小诗呢？</p></div>' +
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'  
+            ],
+            type: 1,
+            page: 47
+        },
+        {
+            text: [
+                '<div><h1 class="title">读后评价</h1></div>' +
+                '<div><p class="text_pl">我会诵读的描写桃花坞美景的诗：</p></div>' +
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'  
+            ],
+            type: 2,
+            page: 48
+        },
+        {
+            text: [
+
+            ],
+            type: 1,
+            page: 49
         },
     ];
     creat_html(book_data)
