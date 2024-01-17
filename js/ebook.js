@@ -562,6 +562,154 @@ $(function () {
             type: 1,
             page: 49
         },
+        {
+            text: [
+                '<div class="page_d"><img class="fullimg" src="img/secondChapter/2-A.png">'
+            ],
+            type: 3,
+            page: 50
+        },
+        {
+            text: [
+                '<div><h1 class="title">名作欣赏</h1></div>' +
+                '<div><img class="circleImg" src="img/firstChapter/1-B.jpg"></div>' +
+                '<div><h2 class="subtitle">单元导语</h2></div>' +
+                '<div><p class="text_pl" style="font-size:14px">年画是中国老百姓喜闻乐见的传统艺术形式。随着印刷技术的进步，手工木版年画逐渐成为非物质文化遗产。“北有杨柳青，南有桃花坞”，苏州桃花坞木版年画色彩饱满、 明快活泼，是我国南方年画的代表。 </p></div>' +
+                '<div><p class="text_pl" style="font-size:14px">本章节收录了《一团和气》《百子婴戏图》《湖畔教子图》《门神画》《龙凤呈祥》五幅极具代表性的桃花坞木版年画作品供学生欣赏。这五福年画同时呈现在学校门厅的上方，通过本单元的名作欣赏，希冀能引导学生细细品味、耐心观摩桃花坞木版年画，主动探索其中处处隐藏的民俗风景。</p></div>' +
+                '<div><h2 class="subtitle">阅读指南</h2></div>' +
+                '<div><p class="text_pl" style="font-size:14px">找一找桃花坞木版年画中的吉祥寓意和民俗风景。</p></div>'
+            ],
+            title: "",
+            type: 1,
+            page: 51
+        },
+        {
+            text: [
+                '<div><h1 class="title">一团和气</h1></div>' +
+                '<div><h2 class="subtitle">我了解</h2></div>' +
+                '<div><img class="circleImg" src="img/firstChapter/1-B.jpg"></div>'+
+                '<div><p class="text_pl">独幅年画在桃花坞年画中内容最广，形式最多。人们根据时令、民俗等不同需求，张贴内容各异的独幅年画：逢年过节张贴《和气吉祥》《端阳喜庆》；商市开业挂《开市大吉》《招财进宝》；不误农时帖《春牛图》。还有民间传说、戏曲故事年画，更是内容丰富、形式多样，深受群众喜爱。</p></div>'
+            ],
+            type: 2,
+            page: 50
+        },
+        {
+            text: [
+                '<div><p class="text_pl">《一团和气》又名《和气致祥》《和气吉祥》，是桃花坞年画中一幅影响极深，流传很广的独幅年画。</p></div>' +
+                '<div><p class="text_pl">宋代理学家程颢（hào），他的弟子形容他“终日坐，如泥塑人，然接人浑是一团和气”是说他和蔼可亲。明成化皇帝朱见深为强调皇室团结，以免萧墙之祸，特绘《一团和气》图作为号召。在“和气可亲”之外又添进了团结一致、和融相处的含义。</p></div>' +
+                '<div><p class="text_pl">整幅画面呈圆形，中央是头戴红花，扎羊角发髻，活泼天真，憨态可掬的稚童笑脸，身穿锦团服饰，颈佩“日月同春”银锁，手捧“一团和气”卷轴，给人喜气洋洋、富足堂皇的感觉。在构图的形象塑造上特意呈圆形，寓意“团圆”、“圆满”，表达了人们在新春佳节中盼望家庭和睦、生活幸福、诸事顺遂的良好愿望。</p></div>' +
+                '<div><p class="text_pl">习近平总书记于2023年7月6日上午在苏州考察期间，来到平江路，亲手印制了《一团和气》。</p></div>' +
+                '<div><h2 class="subtitle">我实践</h2></div>' +
+                '<div><p class="text_pl">1.收集、欣赏桃花坞独幅年画，想一想，独幅年画涵盖哪些内容？</p></div>'+
+                '<div><p class="text_pl">2.为什么说桃花坞木版年画传统佳作中，《一团和气》是最受老百姓欢迎的一幅画？</p></div>'
+            ],
+            title: "",
+            type: 1,
+            page: 51
+        },
+        {
+            text: [
+                '<div><h1 class="title">门神画</h1></div>' +
+                '<div><h2 class="subtitle">我了解</h2></div>' +
+                '<div><p class="text_pl">装饰于门的年画,是木版年画最早的艺术形式。其内容广泛、造型别致、设色大胆、装饰性强,其有独特的民族艺术风格。在新的一年开始,张贴岁朝吉庆的门画,寄托护宅吉祥之意,祈祝岁岁平安，幸福美满。</p></div>'+
+                '<div><p class="text_pl" ><img class="flexsmallimg" src="img/firstChapter/img/7.png" align="left">传统年画中以门神画起源最早，这两幅门神是秦琼和尉迟恭。秦琼字叔宝。尉迟恭字敬德（即胡敬德）均是唐初开国功臣。民间传说：“唐太宗不豫，寝门外抛砖弄瓦，鬼魅呼号，太宗惧之,以告群臣。秦叔宝奏曰：‘愿同胡敬德戎装立门外以伺。’太宗准奏，夜果无事。因命画工图二人之形象全装,悬于宫掖之左右门,邪崇已息,后世沿袭,逐演为门神。”左曰“门丞”,右曰“户尉”。</p><p class="text_pl">图中二将头戴武冠,身穿盔甲,足蹬战靴,腰佩弓箭；一将执锏,一将持剑,双目怒睁,威风凛凛,使鬼魅望而却步。</p></div>'
+            ],
+            type: 2,
+            page: 50
+        },
+        {
+            text: [
+                '<div><h2 class="subtitle">我实践</h2></div>' +
+                '<div><p class="text_pl">过年时学着贴门神。</p></div>'
+            ],
+            title: "",
+            type: 1,
+            page: 51
+        },
+        {
+            text: [
+                '<div><h1 class="title">百子婴戏图</h1></div>' +
+                '<div><h2 class="subtitle">我了解</h2></div>' +
+                '<div><p class="text_pl">《婴戏图》又称《婴戏纹》，以众多儿童游戏为题材，描绘了儿童嬉戏、玩耍的场面。</p></div>'+
+                '<div><h2 class="subtitle">我实践</h2></div>' +
+                '<div><p class="text_pl">1.仔细观察，画面中你能找到哪些古时儿童游戏项目？</p></div>'+
+                '<div><p class="text_pl">2.你最感兴趣的游戏项目是什么？和伙伴一起游戏吧。</p></div>'
+            ],
+            type: 2,
+            page: 52
+        },
+        {
+            text: [
+                '<div class="page_d"><img class="fullimg" src="img/secondChapter/2-A.png">'
+            ],
+            title: "",
+            type: 1,
+            page: 53
+        },
+        {
+            text: [
+                '<div><h1 class="title">湖畔教子图</h1></div>' +
+                '<div><h2 class="subtitle">我了解</h2></div>' +
+                '<div><p class="text_pl">《湖畔教子》，顾名思义是母亲在湖畔教育自己的孩子。整幅画面主要人物是手执书卷的母亲和练习箭术的儿童，母亲仿佛温柔地在指点孩子，孩子回首，专注聆听。窗外湖水粼粼，杨柳依依，构成了淡雅融洽的画卷。</p></div>'+
+                '<div><h2 class="subtitle">我实践</h2></div>' +
+                '<div><p class="text_pl">1.中国历史上有名的“教子”故事有《孟母三迁》和诸葛亮的《诫子书》。听老师讲讲这两个故事。</p></div>'+
+                '<div><p class="text_pl">2.回忆和父母相处的温馨场面，说说当时的情景。</p></div>'
+            ],
+            type: 2,
+            page: 54
+        },
+        {
+            text: [
+                '<div class="page_d"><img class="fullimg" src="img/secondChapter/2-A.png">'
+            ],
+            title: "",
+            type: 1,
+            page: 55
+        },
+        {
+            text: [
+                '<div><h1 class="title">龙凤呈祥图</h1></div>' +
+                '<div><h2 class="subtitle">我了解</h2></div>' +
+                '<div><p class="text_pl">龙和凤都是古代传说中的瑞兽祥禽，旧时民间举办婚礼时，亦将新郎比喻为龙，新娘象征作凤。身穿官服的新郎跨坐龙身，凤冠霞帔的新娘依托彩凤，一对新人脉脉传情，双双翱翔于仙山环阁之间。整幅画面用象征荣华的花草和寓意洪福的蝙蝠组成一个圆形边框，着意烘染喜庆欢快、福寿绵延的气氛。</p></div>'+
+                '<div><p class="text_pl">龙凤呈祥一类的年画，都张帖在新婚夫妇的洞房，以寓家庭团圆、婚姻和美之意。</p></div>'+
+                '<div><h2 class="subtitle">我实践</h2></div>' +
+                '<div><p class="text_pl">1.“龙凤呈祥”在民间风俗中表示什么？</p></div>'+
+                '<div><p class="text_pl">2.寻找一幅包含龙凤呈祥寓意的桃花坞木版年画作品。试着说一说，“龙凤呈祥”由哪些事物组成，各表示什么意义？</p></div>'
+            ],
+            type: 2,
+            page: 56
+        },
+        {
+            text: [
+                '<div class="page_d"><img class="fullimg" src="img/secondChapter/2-A.png">'
+            ],
+            title: "",
+            type: 1,
+            page: 57
+        },
+        {
+            text: [
+                '<div><h1 class="title">读后评价</h1></div>' +
+                '<div><p class="text_pl">我会诵读的描写桃花坞美景的诗：</p></div>' +
+                '<div><img class="img" src="img/firstChapter/img/1.png"></div>'  
+            ],
+            type: 2,
+            page: 58
+        },
+        {
+            text: [
+
+            ],
+            type: 1,
+            page: 59
+        },
+        {
+            text: [
+
+            ],
+            type: 2,
+            page: 60
+        },
     ];
     creat_html(book_data)
 
