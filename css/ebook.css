@@ -20,7 +20,7 @@ input{outline:medium;}
 input, textarea, select, button { font-family:'PingFang SC', 'Hiragino Sans GB', 'Microsoft Yahei UI', 'Microsoft Yahei', 微软雅黑, 'Segoe UI', Tahoma, 宋体b8b体, SimSun, sans-serif;}
 
 .page_d{width:566px; height:776px; background:rgb(217, 255, 0) no-repeat;}
-.page_b{width:566px; height:776px; background:rgb(0, 211, 200) no-repeat;}
+.page_b{width:566px; height:776px; background:rgb(255, 255, 255) no-repeat;}
 /* .back_catalog{width:213px; height:67px; position:absolute; top:-84px; color:#7c6a20; text-align:center; line-height: 58px; background:url(images/back.png) no-repeat; font-size:22px; right:54px;} */
 
 /* .banner_title{width:664px; height:254px; background:url(images/title.png) no-repeat; position:relative; left:50%; margin-left:-332px; top:107px;} */
@@ -60,11 +60,14 @@ body{overflow:hidden;}
 .book_box .book_text table td .enname{font-size:12px;}
 
 
-.page_d{width:566px; height:776px; background:rgb(217, 255, 0) no-repeat;}
-.page_b{width:566px; height:776px; background:rgb(0, 211, 200) no-repeat;}
+.page_d{width:566px; height:776px; background:url(images/d.png) no-repeat;}
+.page_b{width:566px; height:776px; background:url(images/b.png) no-repeat;}
 
 .fullimg{ height:auto; background:wheat no-repeat;margin:0 auto;overflow:hidden;max-height: 100%;}
+
+
 .book_box .text_pl{color:rgb(0, 0, 0); font-size:18px; line-height:1.5em; width:460px; margin:0 auto;font-family:宋体;text-indent:2em;letter-spacing: 2px;margin-bottom:8px; display: block;}
+.book_box .text_pret{color:rgb(0, 0, 0); font-size:14px; line-height:1.5em; width:400px; margin:0 auto;font-family:宋体;text-indent:2em;letter-spacing: 2px;margin-bottom:8px; display: block; margin-left:120px;}
 .book_box .title{font: size 32px; color:rgb(0, 0, 0);line-height:26px; text-align:center; margin:0 auto; top:40px; left:0; width:100%;margin-bottom:50px;font-family:楷体}
 .book_box .subtitle{font-size: 24px; color:rgb(0, 0, 0);line-height:26px; text-align:center; margin:0 auto; top:40px; left:0; width:100%;margin-bottom:30px;margin-top:30px;font-family:楷体}
 
@@ -74,6 +77,6 @@ body{overflow:hidden;}
 .book_box .imgTitle{position: relative; text-align: center ;color:rgb(0, 0, 0); font-size:16px; line-height:1.5em;margin-top:-20px;font-family:黑体;letter-spacing: 2px;margin-bottom:20px;}
 .book_box .flexImg{ text-align: left; margin:0 auto; top:47px; left:0; width: 260px;}
 .book_box .flexsmallimg{ text-align: left; top:47px; left: 40px; top: 80px; width: 180px;}
-.book_box .circleImg{ text-align: center; top: 30px; left:0; width: 260px;}
+.book_box .circleImg{ text-align: center; top: 30px; left:0; width: 260px;margin-left: 140px;}
 
 .book_box .centerBox{text-align: center ;color:rgb(0, 0, 0); font-size:16px; line-height:1.5em; width:460px; margin:0 auto;margin-top:-20px;font-family:微软雅黑;letter-spacing: 2px;margin-bottom:20px;}

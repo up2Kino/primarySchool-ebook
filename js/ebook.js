@@ -25,7 +25,7 @@ $(function () {
         },
         {
             text: [
-                '<div class="page_d"><img class="fullimg" src="img/firstChapter/1-A.JPG">'
+                '<div class="page_d" style="background: url(img/ebook/1-1.png)">'
             ],
             title: "",
             type: 3,
@@ -33,16 +33,18 @@ $(function () {
         },
         {
             text: [
-                '<div><h1 class="title">名迹寻踪</h1></div>' +
-                '<div><img class="circleImg" src="img/firstChapter/1-B.jpg"></div>' +
-                '<div><h2 class="subtitle">单元导语</h2></div>' +
-                '<div><p class="text_pl">苏州桃花坞，是个区域地名，这里“活态”文化遗存很多，特别是民间手工技艺盛极一时。</p></div>' +
-                '<div><p class="text_pl">本单元简要介绍桃花坞地域文化以及“桃花坞木版年画”的前世今生，让大家在追寻桃花坞文化的踪迹时，把姑苏民间文化遗产传承下去。</p></div>' +
-                '<div><h2 class="subtitle">阅读指南</h2></div>' +
-                '<div><p class="text_pl">同学们，你能说说“桃花坞”地区的范围吗？“桃花坞木版年画”的历史吗？</p></div>'
+                '<div class="page_d" style="background: url(img/ebook/1-2.png)">'+
+                '<div class="book_text">' +
+                '<div><h1 class="title" style="margin-left:70px; margin-top:50px;">名迹寻踪</h1></div>' +
+                '<div><img class="circleImg" src="img/ebook/one-two.png"></div>' +
+                '<div><h2 class="subtitle" style="margin-left:70px;">单元导语</h2></div>' +
+                '<div><p class="text_pret" >苏州桃花坞，是个区域地名，这里“活态”文化遗存很多，特别是民间手工技艺盛极一时。</p></div>' +
+                '<div><p class="text_pret">本单元简要介绍桃花坞地域文化以及“桃花坞木版年画”的前世今生，让大家在追寻桃花坞文化的踪迹时，把姑苏民间文化遗产传承下去。</p></div>' +
+                '<div><h2 class="subtitle" style="margin-left:70px;">阅读指南</h2></div>' +
+                '<div><p class="text_pret" >同学们，你能说说“桃花坞”地区的范围吗？“桃花坞木版年画”的历史吗？</p></div>'
             ],
             title: "",
-            type: 1,
+            type: 4,
             page: 5
         },
         {
@@ -128,23 +130,25 @@ $(function () {
         },
         {
             text: [
-                '<div class="page_d"><img class="fullimg" src="img/secondChapter/2-A.png">'
+                '<div class="page_d" style="background: url(img/ebook/2-1.png)">'
             ],
             type: 3,
             page: 13
         },
         {
             text: [
-                '<div><h1 class="title">名胜游历</h1></div>' +
-                '<div><img class="circleImg" src="img/firstChapter/1-B.jpg"></div>' +
-                '<div><h2 class="subtitle">单元导语</h2></div>' +
-                '<div><p class="text_pl">桃花坞历经沧桑，许多人文景观逐渐淹没在历史尘埃中。</p></div>' +
-                '<div><p class="text_pl">本单元主要介绍了桃花坞区域内的历史人文古迹，如 “唐寅文化故居”、“泰伯庙”、“文山寺”等，旨在让学生通过寻访、调查、收集、整理等实践活动，明白我们脚下的这片土地处处是名胜，蕴含着深厚的文化，继承它、保护它是我们的责任和义务。</p></div>' +
-                '<div><h2 class="subtitle">阅读指南</h2></div>' +
-                '<div><p class="text_pl">绘制一张桃花坞地区名胜游历的打卡地图吧！</p></div>'
+                '<div class="page_d" style="background: url(img/ebook/2-2.png)">'+
+                '<div class="book_text">' +
+                '<div><h1 class="title" style="margin-left:70px; margin-top:50px;">名胜游历</h1></div>' +
+                '<div><img class="circleImg" src="img/ebook/2-3.png"></div>' +
+                '<div><h2 class="subtitle" style="margin-left:70px;">单元导语</h2></div>' +
+                '<div><p class="text_pret">桃花坞历经沧桑，许多人文景观逐渐淹没在历史尘埃中。</p></div>' +
+                '<div><p class="text_pret">本单元主要介绍了桃花坞区域内的历史人文古迹，如 “唐寅文化故居”、“泰伯庙”、“文山寺”等，旨在让学生通过寻访、调查、收集、整理等实践活动，明白我们脚下的这片土地处处是名胜，蕴含着深厚的文化，继承它、保护它是我们的责任和义务。</p></div>' +
+                '<div><h2 class="subtitle" style="margin-left:70px;">阅读指南</h2></div>' +
+                '<div><p class="text_pret">绘制一张桃花坞地区名胜游历的打卡地图吧！</p></div>'
             ],
             title: "",
-            type: 1,
+            type: 4,
             page: 14
         },
         {
@@ -354,7 +358,7 @@ $(function () {
         },
         {
             text: [
-                '<div class="page_d"><img class="fullimg" src="img/firstChapter/1-A.JPG">'
+                '<div class="page_d" style="background: url(img/ebook/3-1.png)">'
             ],
             title: "",
             type: 3,
@@ -362,16 +366,18 @@ $(function () {
         },
         {
             text: [
-                '<div><h1 class="title">名篇诵读</h1></div>' +
-                '<div><img class="circleImg" src="img/firstChapter/1-B.jpg"></div>' +
-                '<div><h2 class="subtitle">单元导语</h2></div>' +
-                '<div><p class="text_pl" style="font-size:14px">花坞是苏州文化沉淀颇为丰厚的地区之一，自西晋到民国有二百四十多位作者的七百余首诗词，均与桃花坞地区相关。这些咏唱跨越时空的隧道，记载了桃花坞地区的历史和社会变迁，成为我们了解往昔桃花坞的桥梁。</p></div>' +
-                '<div><p class="text_pl" style="font-size:14px">唐伯虎的《桃花庵诗》、陆龟蒙的《奉和袭美太湖诗二十首·桃花坞》等诗，或写桃花坞的优美景色，或抒归隐山林的情怀，都是不可多得的古诗佳作。“名篇诵读”单元搜集了部分吟诵桃花坞胜景的诗词，学生诵读诗词，练习硬笔书法，品味美文佳句，在经典传统文化的熏陶中涵养正气，不断提高人文素养和思想境界。</p></div>' +
-                '<div><h2 class="subtitle">阅读指南</h2></div>' +
-                '<div><p class="text_pl" style="font-size:14px">你能熟读、背诵哪几首描写桃花坞美景的诗呢？</p></div>'
+                '<div class="page_d" style="background: url(img/ebook/3-2.png)">'+
+                '<div class="book_text">' +
+                '<div><h1 class="title" style="margin-left:70px; margin-top:50px;">名篇诵读</h1></div>' +
+                '<div><img class="circleImg" src="img/ebook/3-3.png"></div>' +
+                '<div><h2 class="subtitle" style="margin-left:70px;">单元导语</h2></div>' +
+                '<div><p class="text_pret" style="font-size:12px">花坞是苏州文化沉淀颇为丰厚的地区之一，自西晋到民国有二百四十多位作者的七百余首诗词，均与桃花坞地区相关。这些咏唱跨越时空的隧道，记载了桃花坞地区的历史和社会变迁，成为我们了解往昔桃花坞的桥梁。</p></div>' +
+                '<div><p class="text_pret" style="font-size:12px">唐伯虎的《桃花庵诗》、陆龟蒙的《奉和袭美太湖诗二十首·桃花坞》等诗，或写桃花坞的优美景色，或抒归隐山林的情怀，都是不可多得的古诗佳作。“名篇诵读”单元搜集了部分吟诵桃花坞胜景的诗词，学生诵读诗词，练习硬笔书法，品味美文佳句，在经典传统文化的熏陶中涵养正气，不断提高人文素养和思想境界。</p></div>' +
+                '<div><h2 class="subtitle" style="margin-left:70px;">阅读指南</h2></div>' +
+                '<div><p class="text_pret" style="font-size:12px">你能熟读、背诵哪几首描写桃花坞美景的诗呢？</p></div>'
             ],
             title: "",
-            type: 1,
+            type: 4,
             page: 36
         },
         {
@@ -557,16 +563,14 @@ $(function () {
         },
         {
             text: [
-
             ],
             type: 1,
             page: 49
         },
         {
             text: [
-                '<div class="page_d"><img class="fullimg" src="img/secondChapter/2-A.png">'
             ],
-            type: 3,
+            type: 2,
             page: 50
         },
         {
@@ -591,7 +595,7 @@ $(function () {
                 '<div><p class="text_pl">独幅年画在桃花坞年画中内容最广，形式最多。人们根据时令、民俗等不同需求，张贴内容各异的独幅年画：逢年过节张贴《和气吉祥》《端阳喜庆》；商市开业挂《开市大吉》《招财进宝》；不误农时帖《春牛图》。还有民间传说、戏曲故事年画，更是内容丰富、形式多样，深受群众喜爱。</p></div>'
             ],
             type: 2,
-            page: 50
+            page: 52
         },
         {
             text: [
@@ -605,7 +609,7 @@ $(function () {
             ],
             title: "",
             type: 1,
-            page: 51
+            page: 53
         },
         {
             text: [
@@ -615,7 +619,7 @@ $(function () {
                 '<div><p class="text_pl" ><img class="flexsmallimg" src="img/firstChapter/img/7.png" align="left">传统年画中以门神画起源最早，这两幅门神是秦琼和尉迟恭。秦琼字叔宝。尉迟恭字敬德（即胡敬德）均是唐初开国功臣。民间传说：“唐太宗不豫，寝门外抛砖弄瓦，鬼魅呼号，太宗惧之,以告群臣。秦叔宝奏曰：‘愿同胡敬德戎装立门外以伺。’太宗准奏，夜果无事。因命画工图二人之形象全装,悬于宫掖之左右门,邪崇已息,后世沿袭,逐演为门神。”左曰“门丞”,右曰“户尉”。</p><p class="text_pl">图中二将头戴武冠,身穿盔甲,足蹬战靴,腰佩弓箭；一将执锏,一将持剑,双目怒睁,威风凛凛,使鬼魅望而却步。</p></div>'
             ],
             type: 2,
-            page: 50
+            page: 54
         },
         {
             text: [
@@ -624,7 +628,7 @@ $(function () {
             ],
             title: "",
             type: 1,
-            page: 51
+            page: 55
         },
         {
             text: [
@@ -636,15 +640,14 @@ $(function () {
                 '<div><p class="text_pl">2.你最感兴趣的游戏项目是什么？和伙伴一起游戏吧。</p></div>'
             ],
             type: 2,
-            page: 52
+            page: 56
         },
         {
             text: [
-                '<div class="page_d"><img class="fullimg" src="img/secondChapter/2-A.png">'
             ],
             title: "",
             type: 1,
-            page: 53
+            page: 57
         },
         {
             text: [
@@ -656,15 +659,14 @@ $(function () {
                 '<div><p class="text_pl">2.回忆和父母相处的温馨场面，说说当时的情景。</p></div>'
             ],
             type: 2,
-            page: 54
+            page: 58
         },
         {
             text: [
-                '<div class="page_d"><img class="fullimg" src="img/secondChapter/2-A.png">'
             ],
             title: "",
             type: 1,
-            page: 55
+            page: 59
         },
         {
             text: [
@@ -677,15 +679,14 @@ $(function () {
                 '<div><p class="text_pl">2.寻找一幅包含龙凤呈祥寓意的桃花坞木版年画作品。试着说一说，“龙凤呈祥”由哪些事物组成，各表示什么意义？</p></div>'
             ],
             type: 2,
-            page: 56
+            page: 60
         },
         {
             text: [
-                '<div class="page_d"><img class="fullimg" src="img/secondChapter/2-A.png">'
             ],
             title: "",
             type: 1,
-            page: 57
+            page: 61
         },
         {
             text: [
@@ -694,21 +695,21 @@ $(function () {
                 '<div><img class="img" src="img/firstChapter/img/1.png"></div>'  
             ],
             type: 2,
-            page: 58
+            page: 62
         },
         {
             text: [
 
             ],
             type: 1,
-            page: 59
+            page: 63
         },
         {
             text: [
 
             ],
             type: 2,
-            page: 60
+            page: 64
         },
     ];
     creat_html(book_data)
@@ -774,6 +775,14 @@ $(function () {
                         '<div class="book_text">' +
                         '</div>' +
                         '<p class="pre_page">上一页  ' + data[i].page + '</p> ' +
+                        '</div>'
+                }
+                
+                if (type == 4) {
+
+                    page_html += p_text +
+                        '</div>' +
+                        '<p class="next_page" style="display:' + isshow + '">' + data[i].page + '  下一页</p>' +
                         '</div>'
                 }
 
